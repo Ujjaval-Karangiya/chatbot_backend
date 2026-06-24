@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/demo-09/chatbot_backend#readme",
   "dependencies": {
-    "cookie-parse": "^0.4.0",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
