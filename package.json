@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/demo-09/chatbot_backend#readme",
   "dependencies": {
+    "@google/genai": "^2.10.0",
     "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
     "dotenv": "^17.4.2",
